@@ -433,7 +433,7 @@ export default function App() {
                     ></textarea>
                   </div>
                   <button type="submit" className="w-full py-4 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-medium transition-colors flex items-center justify-center gap-2 mt-4">
-                    Send via Email <Send size={18} />
+                    Send via WhatsApp <Send size={18} />
                   </button>
                 </div>
               </form>
